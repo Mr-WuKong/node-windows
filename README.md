@@ -1,3 +1,5 @@
+A node addon for moving windows on Windows OS.
+
 Requirement
 
 ``` bash
